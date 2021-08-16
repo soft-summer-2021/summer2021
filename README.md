@@ -10,8 +10,6 @@ WinForm (C#)：WinForm 是最简单、最傻瓜式的创建 Windows 桌面程序
 
 Windows API (C/C++)：效率极端低下，不推荐。
 
-Swing (Java)：跨平台 UI 框架，不如 WinForm 简单，建议有 Java 基础的同学尝试。
-
 WPF (C#)：建议有 WinForm 基础的同学尝试。可以阅读 QQ 群内的 WPF 案例。
 
 #### macOS
@@ -23,6 +21,8 @@ Swift+SwiftUI
 Qt (C++)：跨平台 UI 框架。[Qt 指引](./starter-qt.md)
 
 Electron（HTML+CSS+JavaScript）：用前端技术构建跨平台桌面客户端。
+
+Swing (Java)：跨平台 UI 框架，不如 WinForm 简单，建议有 Java 基础的同学尝试。
 
 ### 游戏开发
 
