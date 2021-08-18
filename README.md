@@ -14,7 +14,7 @@ WPF (C#)：建议有 WinForm 基础的同学尝试。可以阅读 QQ 群内的 W
 
 #### macOS
 
-Swift+SwiftUI
+Swift+SwiftUI：[macOS 指引](./starter-macos.md)
 
 #### 跨平台
 
@@ -38,7 +38,7 @@ pygame (Python)：简单易上手的 Python 游戏开发模块。[pygame 指引]
 
 前后端分离：Vue/React(前端)+Django/Flask/Spring(后端)
 
-[Django 指引](./starter-django.md)
+[Vue.js 指引](./starter-vue.md) | [Django 指引](./starter-django.md)
 
 QQ 群内的 Skincare 是采用 Vue+Django+SQLite 开发。
 
