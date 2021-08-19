@@ -20,7 +20,7 @@
 ## 助教
 | 助教姓名 | github昵称  |
 |----------|-------------|
-| 陈泓瑞   | crclz       |
+| 陈开睿   | KarryBanana       |
 | 李鑫     | SeventhGX   |
 | 邢湧喆   | orixing     |
 | 卓佩妍   | PineZhuo    |
