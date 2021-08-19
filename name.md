@@ -23,7 +23,7 @@
 | 陈开睿   | KarryBanana       |
 | 李鑫     | SeventhGX   |
 | 邢湧喆   | orixing     |
-| 卓佩妍   | PineZhuo    |
+| 周玉萌   | ColdMonkey_Meng    |
 | 邢智涣   | Roycent     |
 | 胡哲宇   | hzy1721 |
 | 胡亦锟   | huyikun     |
