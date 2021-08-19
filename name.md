@@ -26,4 +26,4 @@
 | 胡哲宇   | hzy1721 |
 | 胡亦锟   | huyikun     |
 | 陈镇东   | rootczd980303     |
-|   | jongjyh    |
+| 陈忠智   | jongjyh    |
