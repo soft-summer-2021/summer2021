@@ -25,5 +25,5 @@
 | 段宇宁   | dyn1721     |
 | 胡哲宇   | hzy1721 |
 | 胡亦锟   | huyikun     |
-|    | rootczd980303     |
+| 陈镇东   | rootczd980303     |
 |   | jongjyh    |
