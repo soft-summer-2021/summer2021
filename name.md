@@ -21,11 +21,9 @@
 | 助教姓名 | github昵称  |
 |----------|-------------|
 | 陈开睿   | KarryBanana       |
-| 李鑫     | SeventhGX   |
-| 邢湧喆   | orixing     |
 | 周玉萌   | ColdMonkey_Meng    |
-| 邢智涣   | Roycent     |
+| 段宇宁   | dyn1721     |
 | 胡哲宇   | hzy1721 |
 | 胡亦锟   | huyikun     |
-| 石泽宏   | Zehong3351  |
-| 张梓航   | songoku1994 |
+|    | rootczd980303     |
+|   | jongjyh    |
