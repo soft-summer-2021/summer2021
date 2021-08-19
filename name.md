@@ -16,7 +16,7 @@
 | 宋友     | songyou21    |
 | 杨晴虹   | iceryang     |
 | 路新喜   | laneseal     |
-	
+
 ## 助教
 | 助教姓名 | github昵称  |
 |----------|-------------|
@@ -26,6 +26,6 @@
 | 卓佩妍   | PineZhuo    |
 | 邢智涣   | Roycent     |
 | 胡哲宇   | hzy1721 |
-| 王立芃   | Lighten-w   |
+| 胡亦锟   | huyikun     |
 | 石泽宏   | Zehong3351  |
 | 张梓航   | songoku1994 |
